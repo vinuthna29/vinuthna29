@@ -7,7 +7,7 @@
 - 🌱 Passionate about exploring new algorithms and software skills through hands-on coding challenges.
 - 👯 Looking to collaborate on open-source initiatives to further refine skills and contribute to collective growth
 
-- ⚡ Fun fact: Setting ⛵️ sail a rookie, on a quest to conquer 🏴‍☠️the coding seas 🌊 and emerge as the legendary programming captain 💻 ⚓️
+⚡ Fun fact: Setting ⛵️ sail a rookie, on a quest to conquer 🏴‍☠️the coding seas 🌊 and emerge as the legendary programming captain 💻 ⚓️
 
 #NoobToKing 👑
 #Mugiwara 👒⚔🍜
